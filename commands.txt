@@ -1,0 +1,15 @@
+The commands i should tell about.
+1.cp 
+2.mv
+3.rm
+4.mkdir
+5.rmdir
+6.whoami
+7.date
+8.echo
+9.cat
+10.touch
+11.ls
+12.cd
+13.pwd
+14.chmod
